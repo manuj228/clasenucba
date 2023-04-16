@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Curriculum Vitae de Lionel Messi</h1>
+    <h2>Datos personales</h2>
+    <div>
+        <ul>
+            <li>Nombre completo: <b>Lionel Andres Messi Cuccini</b></li>
+            <li>Fecha de Nacimiento:  <b>24/06/1987</b></li>
+            <li>Lugar de Nacimiento:  <b>Rosario - Argentina </b></li>
+        </ul>
+    </div>
+    <h2>Trayectoria</h2>
+    <div>
+        <ul>
+            <li>1994 - 1999: <b> Newells Old Boys (Inferiores) </b> </li>
+            <li>2000 - 2021:  <b>Barcelona (FC)</b> </li>
+            <li>2021 - 2023:  <b>Paris Saint Germain</b></li>
+        </ul>
+    </div>
+    <h2>Titulos con la selección</h2>
+    <div>
+        <ul>
+            <li>2021:  <b>Copa América Brasil 2021</b> </li>
+            <li>2022:  <b>Finalista</b> </li>
+            <li>2022:  <b>Copa del Mundo FIFA Qatar 2022</b></li>
+        </ul>
+    </div>
+
+</body>
+</html>
